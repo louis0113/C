@@ -8,7 +8,6 @@ void hw(){
 
 }
 
-
 int main(void){
 
   hw();

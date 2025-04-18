@@ -9,7 +9,7 @@ double areaEsfera(double raio){
 
 int main (void){
   double r, resultado;
-  scanf("%lf", &r);fflush(stdin);
+  scanf("%lf", &r);
   resultado = areaEsfera(r);
   printf("VOLUME = %.3lf\n", resultado);
 

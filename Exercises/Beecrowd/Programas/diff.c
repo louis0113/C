@@ -9,11 +9,8 @@ int main (void){
 
   int n1,n2,n3,n4,r;
   
-  scanf("%d", &n1);
-  scanf("%d",  &n2);
-  scanf("%d",  &n3);
-  scanf("%d",  &n4);
-
+  scanf("%d %d %d %d", &n1, &n2n &n3, &n4);
+  
   r = diff(n1,n2,n3,n4);
 
   printf("DIFERENCA = %d\n", r);
