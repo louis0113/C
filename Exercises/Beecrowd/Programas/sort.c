@@ -16,8 +16,8 @@ void Sort(int arr[], int n){
 
 int main (void){
   
-  int a,b,c,x,l;  
-  int numeros[3] = {a,b,c};
+  int x,l;  
+  int numeros[3];
   int sortedNums[3];
 
    l = sizeof(numeros) / sizeof(numeros[0]);
